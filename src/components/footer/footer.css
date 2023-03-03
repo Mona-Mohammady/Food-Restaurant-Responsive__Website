@@ -1,0 +1,26 @@
+.footer{
+padding-bottom: 0;
+}
+.footer__link-title{
+    color: #fff;
+}
+.link__item{
+    padding-left: 0;
+    background: transparent;
+    color: #c4c4c4;
+}
+.link__item a{
+    color: #c4c4c4;
+}
+
+@media only screen and (max-width:992px) {
+
+.link__item a{
+    font-size: 0.8rem;
+}
+.link__item {
+    font-size: 0.8rem;
+}
+.logo p{    font-size: 0.8rem;
+}
+}
