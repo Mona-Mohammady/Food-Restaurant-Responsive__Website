@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/Food-Restaurant-Responsive__Website/static/css/main.4855fbd4.css",
+    "main.js": "/Food-Restaurant-Responsive__Website/static/js/main.fcd45751.js",
+    "static/media/remixicon.svg?t=1590207869815": "/Food-Restaurant-Responsive__Website/static/media/remixicon.9cedd2150922ead84869.svg",
+    "static/media/remixicon.eot?t=1590207869815": "/Food-Restaurant-Responsive__Website/static/media/remixicon.5cb99e6cba5a4619063f.eot",
+    "static/media/remixicon.ttf?t=1590207869815": "/Food-Restaurant-Responsive__Website/static/media/remixicon.f2616f597cf98f38d234.ttf",
+    "static/media/pizza1.png": "/Food-Restaurant-Responsive__Website/static/media/pizza1.654c0ad40f35c0160d07.png",
+    "static/media/slider1.png": "/Food-Restaurant-Responsive__Website/static/media/slider1.d7139f2a9849745cc060.png",
+    "static/media/pasta.png": "/Food-Restaurant-Responsive__Website/static/media/pasta.0710b65fc7c4d933ff30.png",
+    "static/media/dessert2.png": "/Food-Restaurant-Responsive__Website/static/media/dessert2.6d376909141e9dd5fbc4.png",
+    "static/media/slider2.png": "/Food-Restaurant-Responsive__Website/static/media/slider2.bd92752adc1ee0195613.png",
+    "static/media/coffe2.png": "/Food-Restaurant-Responsive__Website/static/media/coffe2.19b724f31efff2d5baa7.png",
+    "static/media/dessert02.png": "/Food-Restaurant-Responsive__Website/static/media/dessert02.fb48b7dbb74982bd03d9.png",
+    "static/media/chicken4.png": "/Food-Restaurant-Responsive__Website/static/media/chicken4.c4acdf41649fbd6163c8.png",
+    "static/media/chicken3.png": "/Food-Restaurant-Responsive__Website/static/media/chicken3.bbc7b7ed3c8683f1a138.png",
+    "static/media/dessert3.png": "/Food-Restaurant-Responsive__Website/static/media/dessert3.5221424963bbaabfe819.png",
+    "static/media/remixicon.woff?t=1590207869815": "/Food-Restaurant-Responsive__Website/static/media/remixicon.8d09fa11700ed63cf96e.woff",
+    "static/media/slider03.png": "/Food-Restaurant-Responsive__Website/static/media/slider03.17713c88c15d3f581d08.png",
+    "static/media/remixicon.woff2?t=1590207869815": "/Food-Restaurant-Responsive__Website/static/media/remixicon.90668f6f9b3c2c18a090.woff2",
+    "static/media/app.png": "/Food-Restaurant-Responsive__Website/static/media/app.4e53622c64f47e64322f.png",
+    "static/media/review1.png": "/Food-Restaurant-Responsive__Website/static/media/review1.5700a29883f432498c97.png",
+    "static/media/slick.svg": "/Food-Restaurant-Responsive__Website/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/Food-Restaurant-Responsive__Website/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/Food-Restaurant-Responsive__Website/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/Food-Restaurant-Responsive__Website/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/Food-Restaurant-Responsive__Website/index.html",
+    "main.4855fbd4.css.map": "/Food-Restaurant-Responsive__Website/static/css/main.4855fbd4.css.map",
+    "main.fcd45751.js.map": "/Food-Restaurant-Responsive__Website/static/js/main.fcd45751.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4855fbd4.css",
+    "static/js/main.fcd45751.js"
+  ]
+}
